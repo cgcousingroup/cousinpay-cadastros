@@ -1,1 +1,1 @@
-[{'name': 'cousinpay-users', 'email': 'cgcousingroup@gmail.com', 'cpfcnpj': '600.353.948-89', 'phone': '(11) 96565-5656', 'password': 'Grupo2357#', 'confirm': 'Grupo2357#', 'terms': True}]
+[{'name': 'cousinpay-users', 'email': 'cgcousingroup@gmail.com', 'cpfcnpj': '600.353.948-89', 'phone': '(11) 96565-5656', 'password': 'Grupo2357#', 'confirm': 'Grupo2357#', 'terms': True}, {'name': 'TESTE', 'email': 'souzacleuber93@gmail.com', 'cpfcnpj': '384.581.998-74', 'phone': '(11) 98919-1141', 'password': 'Grupo2357#200', 'confirm': 'Grupo2357#200', 'terms': True}]
